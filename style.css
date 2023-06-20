@@ -1,21 +1,4 @@
-
-body{
-background-color: rgb(127, 127, 235);
-}
-
-
- h1{
-color:rgb(223, 152, 164) ;
-font-family: Arial, Helvetica, sans-serif;
-background:rgb(245, 122, 122) ;
-font-size: 50px;
-}
-
-
-#aa 
-p{
-color:black ;
-font-family:Georgia, 'Times New Roman', Times, serif ;
-font-size:40px;
-background: ;
+:root { 
+_--branco-principal: #FFFFFF;
+--cinza-secundario:
 }
